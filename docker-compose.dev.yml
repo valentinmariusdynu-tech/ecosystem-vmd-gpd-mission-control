@@ -14,7 +14,7 @@ services:
 
   backend:
     build:
-            context: ../ecosystem-vmd-gpd-mission-control
+      context: ../ecosystem-vmd-gpd-mission-control
       dockerfile: Dockerfile
     ports:
       - "8000:8000"
