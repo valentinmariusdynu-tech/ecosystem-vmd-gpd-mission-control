@@ -14,7 +14,7 @@
 - Toate secretele în .env (niciodată în cod)
 
 ## Repo-uri
-- sport-os-backend — FastAPI, PostgreSQL, Alembic
+- ecosystem-vmd-gpd-mission-control — FastAPI, PostgreSQL, Alembic
 - sport-os-mobile — React Native
 - sport-os-ai — AI layer separat
 - sport-os-infra — Docker Compose, Hetzner
