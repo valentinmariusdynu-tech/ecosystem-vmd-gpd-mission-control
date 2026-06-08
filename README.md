@@ -1,6 +1,6 @@
-# sport-os-backend
+# ECOSYSTEM VMD GPD MISSION CONTROL
 
-[![CI](https://github.com/valentinmariusdynu-tech/sport-os-backend/actions/workflows/ci.yml/badge.svg)](https://github.com/valentinmariusdynu-tech/sport-os-backend/actions/workflows/ci.yml)
+[![CI](https://github.com/valentinmariusdynu-tech/ecosystem-vmd-gpd-mission-control/actions/workflows/ci.yml/badge.svg)](https://github.com/valentinmariusdynu-tech/ecosystem-vmd-gpd-mission-control/actions/workflows/ci.yml)
 
 FastAPI backend for the Sport-OS platform — authentication, athlete profiles, events, and real-time telemetry ingestion.
 
