@@ -1,4 +1,4 @@
-﻿# models.py — sport-os-backend
+﻿# models.py — ecosystem-vmd-gpd-mission-control
 from sqlalchemy import Column, Integer, String, ForeignKey, DateTime
 from sqlalchemy.ext.declarative import declarative_base
 
